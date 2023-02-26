@@ -1,5 +1,5 @@
 <h1 align="center">Opa, Luis Vitório aqui 👋🏼</h1>
-<h3 align="center">🧑🏻‍💻 analista de suporte técnico</h3>
+<h3 align="center">🧑🏻‍💻 Technical Support & Community Enthusiast</h3>
 
 - 🔭 Atualmente estou trabalhando em [soluções de integrações.](https://br.sensedia.com/)
 
